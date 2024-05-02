@@ -26,11 +26,5 @@ Lasso regression adds an L1 regularization term to the linear regression cost fu
 2. Open and run the Jupyter Notebook `Ridge_Lasso_Regression.ipynb`.
 3. Follow the step-by-step instructions in the notebook to understand Ridge and Lasso regression.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
-[Your Name]
-
-## Acknowledgments
-This project was inspired by the need to understand and compare the performance of Ridge and Lasso regression techniques.
+Yash Verma
